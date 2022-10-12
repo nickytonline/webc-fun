@@ -1,0 +1,5 @@
+---
+layout: _layouts/global.webc
+---
+
+<my-marquee></my-marquee>
