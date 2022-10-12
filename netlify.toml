@@ -1,0 +1,9 @@
+# example netlify.toml
+[build]
+  command = "npm run build"
+  functions = "netlify/functions"
+  publish = "_site"
+
+  [dev]
+   command = "npm run start"
+   targetPort = 8080

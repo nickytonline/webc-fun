@@ -9,8 +9,17 @@ A fun stream learning all about WebC with Zach Leatherman!
 ## Installation
 
 - Run `npm install`
+
+## Run the project
+
 - Run `npm start` to get the project up and running.
-- Visit http://localhost:8080/fun
+- Visit http://localhost:8080
+
+## Run the project using the Netlify CLI
+
+- Install the Netlify CLI, if you haven't already, https://docs.netlify.com/cli/get-started
+- Run `ntl dev` to get the project up and running.
+- Visit http://localhost:8080
 
 ## Resourc4s
 
