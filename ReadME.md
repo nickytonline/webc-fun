@@ -23,8 +23,8 @@ A fun stream learning all about WebC with Zach Leatherman!
 - Run `ntl dev` to get the project up and running.
 - Visit http://localhost:8080
 
-## Resourc4s
+## Resources
 
 - [Eleventy](https://github.com/11ty/eleventy)
 - [WebC](https://github.com/11ty/webc)
-- [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)g a
+- [MDN - Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components)
