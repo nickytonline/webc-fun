@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4aea763c-8a7c-4f79-b503-f8850b9cff78/deploy-status)](https://app.netlify.com/sites/webc-is-neat/deploys)
+
 # WebC fun!
 
 A fun stream learning all about WebC with Zach Leatherman!
